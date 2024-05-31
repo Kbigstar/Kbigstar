@@ -25,6 +25,7 @@
 <br>
 
 ![Kbigstar's GitHub stats](https://github-readme-stats-veggie-garden.vercel.app/api?username=Kbigstar&show_icons=true&theme=tokyonight)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbigstar&layout=compact&theme=tokyonight"/>
 </div>
 
 
